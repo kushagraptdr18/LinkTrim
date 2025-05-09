@@ -19,7 +19,7 @@ This project depends on
 To build this project, run
 
 ```shell script
-git clone https://github.com/zeeshaanahmad/url-shortener.git
+git clone https://github.com/kushagraptdr18/LinkTrim.git
 cd url-shortener
 gradle clean build
 ```
@@ -129,4 +129,4 @@ Tested both of the approaches but in case of hashes, sometimes the hashes were l
 * Mount volumes for MySql container to persist data outside of the container
 
 # Contributors
-email: ahmad.zeeshaan@gmail.com
+email: kushagraptdr18@gmail.com
